@@ -1,0 +1,9 @@
+.body-section {
+    margin-left: 60vh;
+    margin-right: 60vh;
+}
+
+form {
+    background-color: rgb(253, 197, 206, 0.1);
+    padding: 15px;
+}       
